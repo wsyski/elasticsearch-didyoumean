@@ -1,4 +1,17 @@
-{"_index":"autocomplete_0","_type":"_doc","_id":"kMGUI3UBi-4wZU2Gha3j","_score":1,"_source":{"book":{"title":"Harry Potter and the Prisoner of Azkaban","author":"J. K. Rowling","year":1999}}}
-{"_index":"autocomplete_0","_type":"_doc","_id":"2","_score":1,"_source":{"book":{"title":"The Hobbit","author":"J. R. R. Tolkien","year":1937}}}
-{"_index":"autocomplete_0","_type":"_doc","_id":"1","_score":1,"_source":{"book":{"title":"Harry Potter and the Chamber of Secrets","author":"J. K. Rowling","year":1998}}}
-{"_index":"autocomplete_0","_type":"_doc","_id":"0","_score":1,"_source":{"book":{"title":"The Ex-Wife: A Nail Biting Gripping Psychological Thriller","author":"Jess Ryder","year":1999}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"0","_score":1,"_source":{"book":{"title":"Harry Potter and the Prisoner of Azkaban","author":"J. K. Rowling","year":1999}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"1","_score":1,"_source":{"book":{"title":"The Hobbit","author":"J. R. R. Tolkien","year":1937}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"2","_score":1,"_source":{"book":{"title":"Harry Potter and the Chamber of Secrets","author":"J. K. Rowling","year":1998}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"3","_score":1,"_source":{"book":{"title":"The Ex-Wife: A Nail Biting Gripping Psychological Thriller","author":"Jess Ryder","year":1999}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"4","_score":1,"_source":{"book":{"title":"Rise and Kill First: The Secret History of Israel's Targeted Assassinations","author":"Ronen Bergman","year":2018}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"5","_score":1,"_source":{"book":{"title":"Panzer Ace: The Memoirs of an Iron Cross Panzer Commander from Barbarossa to Normandy","author":"Richard Freiherr von Rosen , Robert Forczyk","year":1937}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"6","_score":1,"_source":{"book":{"title":"No Way Out: The Searing True Story of Men Under Siege","author":"Gunnar Cauthery","year":1998}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"7","_score":1,"_source":{"book":{"title":"The Templars","author":"Dan Jones","year":1999}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"8","_score":1,"_source":{"book":{"title":"Harry Potter and the Philosopher's Stone, Book 1","author":"J. K. Rowling","year":1999}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"9","_score":1,"_source":{"book":{"title":"Harry Potter and the Philosopher's Stone, Book 2","author":"J. K. Rowling","year":2000}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"10","_score":1,"_source":{"book":{"title":"Harry Potter and the Chamber of Secrets","author":"J. K. Rowling","year":2002}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"11","_score":1,"_source":{"book":{"title":"Harry Potter and the Chamber of Secrets, Book 2","author":"J. K. Rowling","year":2003}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"12","_score":1,"_source":{"book":{"title":"Harry Potter and the Half-Blood Prince, Book 6","author":"J. K. Rowling","year":2004}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"13","_score":1,"_source":{"book":{"title":"Harry Potter and the Goblet of Fire, Book 4","author":"J. K. Rowling","year":2005}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"14","_score":1,"_source":{"book":{"title":"Harry Potter and the Order of the Phoenix, Book 5","author":"J. K. Rowling","year":2006}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"15","_score":1,"_source":{"book":{"title":"Harry Potter and the Deathly Hallows, Book 7","author":"J. K. Rowling","year":2010}}}
+{"_index":"autocomplete_0","_type":"_doc","_id":"16","_score":1,"_source":{"book":{"title":"Harry Potter - the Ultimate Quiz","author":"Jack Goldstein","year":2014}}}
