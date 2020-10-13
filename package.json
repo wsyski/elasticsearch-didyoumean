@@ -4,11 +4,19 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "docker-compose up -d && echo \"Waiting for Elasticsearch to be running\" && sleep 10 && ./init"
+    "docker": "docker-compose up -d && echo \\\"Waiting for Elasticsearch to be running\\\" && sleep 10",
+    "export-analyzer": "elasticdump --input=http://localhost:9200/autocomplete_0 --output=./index/analyzer.json --type=analyzer",
+    "export-mapping": "elasticdump --input=http://localhost:9200/autocomplete_0 --output=./index/mapping.json --type=mapping",
+    "export-data": "elasticdump --input=http://localhost:9200/autocomplete_0 --output=./index/data.json --type=data",
+    "import-analyzer": "elasticdump --input=./index/analyzer.json --output=http://localhost:9200/autocomplete_0 --type=analyzer --headers='{\"Content-Type\": \"application/json\"}'",
+    "import-mapping": "elasticdump --input=./index/mapping.json --output=http://localhost:9200/autocomplete_0 --type=mapping --headers='{\"Content-Type\": \"application/json\"}'",
+    "import-data": "elasticdump --input=./index/data.json --output=http://localhost:9200/autocomplete_0 --type=data --headers='{\"Content-Type\": \"application/json\"}'"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "elasticdump": "^4.4.0"
+    "elasticdump": "^6.33.4",
+    "global": "^4.4.0",
+    "gulp": "^4.0.2"
   }
 }
